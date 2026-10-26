@@ -1,5 +1,5 @@
 ---
-name:hlyther baml-core
+name: hlyther581@gmail.com baml-core
 description: Minimal BAML skill. BAML is a statically-typed, expression-oriented language with first-class LLM functions — TypeScript-like, snake_case methods, etc. Useful for building ai workflows, agents, evals.
 metadata:
   baml-toolchain-version: "0.18.1-nightly.20260906.a"
